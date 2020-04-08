@@ -35,7 +35,7 @@ something more...
 Over time we found that we connected at various levels... movies, music,
 poetry, art, literature, humour at one level and recipes and gardening
 at another level. We would have long conversations about how well
-"আগুনের পরশমণি" been used in "উত্তর ফাল্গুনী"; "ধরা দিয়েছিগো
+"আগুনের পরশমণি" been used in "উত্তর ফাল্গুনী"; "ধরা দিয়েছি গো
 আমি আকাশের পাখি" in "অতিথি"; "না চাহিলে যারে পাওয়া যায়" in "মেঘ ও
 রৌদ্র"; Baul and Jhumur songs; Ray's movies and our favourites, my
 field work; impact on rural communities I worked with; new books we have

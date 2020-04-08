@@ -29,13 +29,16 @@ particularly, it was eye opening to learn how progressive the Kolkata
 based Marwari business community could be in terms of their contribution
 to people and society.
 
-My mother's mother Neelam married Bhim Singh Parekh at the age of 12,
+My mother's mother Leela married Bhim Singh Parekh at the age of 12,
 and was the daughter of one Motichand Nakhat. Motichand was the son of
 Lala Phool Chand, who according to "The Cyclopedia of India:
-Biographical, Historical, Administrative, Commercial - Volume 2 (1908)",
-was "Mookim and Court Jeweller, a famous and honest jeweller in Bengal,
-and one of the most influential members of the Jain Community of the
-time."
+Biographical, Historical, Administrative, Commercial -
+[https://archive.org/details/dli.csl.5417/page/n365/mode/2up](Volume
+2) (1908)", was "Mookim and Court Jeweller, a famous and honest
+jeweller in Bengal, and one of the most influential members of the
+Jain Community of the time."
+
+<img class="float-right" src="resources/motichand-nakhat/motichand-nakhat.jpg" />
 
 Motichand partnered with Sett Labhchand to establish the jewellery firm
 of Messrs. Labhchand and Motichand, based at the "Marble House" at 41,
@@ -52,6 +55,12 @@ as a caste profession and were the traditional producers carrying on the
 craft for generations, were unreliable in the extreme, and the firm had
 experienced considerable inconvenience owing to the delays occasioned by
 their irregular attendance."
+
+<figure class="float-right">
+   <img src="resources/motichand-nakhat/motichand-nakhat.jpg" style="max-width: 200px;"
+      alt="Motichand Nakhat" />
+   <figcaption>Motichand Nakhat</figcaption>
+</figure>
 
 Being a development sector professional, and having worked in the
 sectors of livelihood, skills, and crafts, I specifically understand how
@@ -71,6 +80,13 @@ efforts towards building cultural entrepreneurship, I wonder at how much
 of these ideas were already laid out successfully in our artisan and
 handicrafts industries in the past.
 
+<figure>
+	<img class="img-fluid"
+         src="resources/motichand-nakhat/labhchand-motichand-mfg-citation.jpg"
+	     alt="Labhchand Motichand figurine" />
+	<figcaption>Close-up of an silver elephant figurine by by Labhchand Motichand</figcaption>
+</figure>
+
 Motichand Nakhat also established, in memory of his father Phoolchand,
 at a cost of around 60,000 rupees, a "large Dharmsala or traveller's
 house at No. 9, Shama Bai's Lane, Bara Bazar" that was "quite up to
@@ -81,10 +97,12 @@ communities had actually faced and tried to address more than a century
 ago. I have myself believed that entrepreneurs with social sensitivity
 from any field are the greatest changemakers and contributors in
 society, and my belief and admiration became more strongly rooted on
-learning all this. This history is indeed very interesting, but what
-made us search out all this information from old documents in the first
-place is even more exciting, and especially impactful for a Bengali
-having this particular Marwari family lineage!
+learning all this. 
+
+This history is indeed very interesting, but what made us search out
+all this information from old documents in the first place is even
+more exciting, and especially impactful for a Bengali having this
+particular Marwari family lineage!
 
 In 1899, Rabindranath Tagore was trying to run the family business
 Tagore & Co. in partnership with his nephew Balendranath. The
