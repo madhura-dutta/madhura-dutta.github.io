@@ -1,7 +1,8 @@
 ---
-title: '"Good" Coffee'
+title: '‘Good’ Coffee'
 author: Madhura Dutta
 layout: article
+date: 2016
 ---
 
 Eight years back, right after I got married to an arranged husband,

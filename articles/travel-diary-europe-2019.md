@@ -1,5 +1,5 @@
 ---
-title: Travel Diary
+title: 'Travel Diary: Europe 2019'
 author: Madhura Dutta
 layout: article
 ---

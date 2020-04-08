@@ -1,5 +1,5 @@
 ---
-title: A long long time ago...
+title: A Long Long Time Ago...
 author: Madhura Dutta
 layout: article
 ---

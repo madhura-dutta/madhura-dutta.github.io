@@ -8,13 +8,15 @@ layout: landing
 
 ## Articles
 
-<div class="dropdown-menu" style="a { display: block; }">
+<div style="a { display: block; }">
 
 {% include_relative articles/TOC.html %}
+
+</div>
+
+
 
 ## Academic
 
 TBA
-
-</div>
 

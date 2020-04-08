@@ -1,5 +1,5 @@
 ---
-title: Travel Diary - Mumbai
+title: 'Travel Diary: Mumbai'
 author: Madhura Dutta
 layout: article
 ---

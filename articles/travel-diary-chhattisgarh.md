@@ -1,5 +1,5 @@
 ---
-title: Travel Diary - Chhattisgarh
+title: 'Travel Diary: Chhattisgarh'
 author: Madhura Dutta
 layout: article
 ---

@@ -1,5 +1,5 @@
 ---
-title: My Marwari lineage!
+title: My Marwari Lineage!
 author: Madhura Dutta
 layout: article
 ---

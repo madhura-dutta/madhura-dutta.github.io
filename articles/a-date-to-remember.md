@@ -1,5 +1,5 @@
 ---
-title: A date to remember!
+title: A Date to Remember!
 author: Madhura Dutta
 layout: article
 ---
