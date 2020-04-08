@@ -32,13 +32,18 @@ to people and society.
 My mother's mother Leela married Bhim Singh Parekh at the age of 12,
 and was the daughter of one Motichand Nakhat. Motichand was the son of
 Lala Phool Chand, who according to "The Cyclopedia of India:
-Biographical, Historical, Administrative, Commercial -
-[https://archive.org/details/dli.csl.5417/page/n365/mode/2up](Volume
-2) (1908)", was "Mookim and Court Jeweller, a famous and honest
-jeweller in Bengal, and one of the most influential members of the
-Jain Community of the time."
+Biographical, Historical, Administrative, Commercial - [Volume
+2](https://archive.org/details/dli.csl.5417/page/n365/mode/2up)
+(1908)", was "Mookim and Court Jeweller, a famous and honest jeweller
+in Bengal, and one of the most influential members of the Jain
+Community of the time."
 
-<img class="float-right" src="resources/motichand-nakhat/motichand-nakhat.jpg" />
+<figure class="float-right">
+   <img src="resources/motichand-nakhat/motichand-nakhat.jpg" 
+        style="max-width: 221px;"
+        alt="Motichand Nakhat" />
+   <figcaption>Motichand Nakhat</figcaption>
+</figure>
 
 Motichand partnered with Sett Labhchand to establish the jewellery firm
 of Messrs. Labhchand and Motichand, based at the "Marble House" at 41,
@@ -55,12 +60,6 @@ as a caste profession and were the traditional producers carrying on the
 craft for generations, were unreliable in the extreme, and the firm had
 experienced considerable inconvenience owing to the delays occasioned by
 their irregular attendance."
-
-<figure class="float-right">
-   <img src="resources/motichand-nakhat/motichand-nakhat.jpg" style="max-width: 200px;"
-      alt="Motichand Nakhat" />
-   <figcaption>Motichand Nakhat</figcaption>
-</figure>
 
 Being a development sector professional, and having worked in the
 sectors of livelihood, skills, and crafts, I specifically understand how
