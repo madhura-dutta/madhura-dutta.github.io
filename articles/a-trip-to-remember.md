@@ -1,5 +1,5 @@
 ---
-title: A trip to remember
+title: A Trip to Remember
 author: Madhura Dutta
 layout: article
 ---
