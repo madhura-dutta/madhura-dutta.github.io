@@ -8,18 +8,18 @@ pandoc -o TOC.html -f markdown MANIFEST
 
 -->
 
-[My Marwari Lineage](my-marwari-lineage)
-[The Magic of Jagannath](the-magic-of-jagannath)
-[She](she)
-[A Long Long Time Ago](a-long-long-time-ago)
-[Warming Up a Cold Christmas](warming-up-a-cold-christmas)
-[A Great Cartoonist and I](a-great-cartoonist-and-i)
-[Good Coffee](good-coffee)
-[A Date to Remember](a-date-to-remember)
-[Life's Like That](lifes-like-that)
-[A Trip to Remember](a-trip-to-remember)
-[Travel Diary: Chhattisgarh](travel-diary-chhattisgarh)
-[Travel Diary: Mumbai 2019](travel-diary-mumbai-2019)
-[Travel Diary: Europe 2019](travel-diary-europe-2019)
+[My Marwari Lineage](/articles/my-marwari-lineage)
+[The Magic of Jagannath](/articles/the-magic-of-jagannath)
+[She](/articles/she)
+[A Long Long Time Ago](/articles/a-long-long-time-ago)
+[Warming Up a Cold Christmas](/articles/warming-up-a-cold-christmas)
+[A Great Cartoonist and I](/articles/a-great-cartoonist-and-i)
+[Good Coffee](/articles/good-coffee)
+[A Date to Remember](/articles/a-date-to-remember)
+[Life's Like That](/articles/lifes-like-that)
+[A Trip to Remember](/articles/a-trip-to-remember)
+[Travel Diary: Chhattisgarh](/articles/travel-diary-chhattisgarh)
+[Travel Diary: Mumbai 2019](/articles/travel-diary-mumbai-2019)
+[Travel Diary: Europe 2019](/articles/travel-diary-europe-2019)
 
 
