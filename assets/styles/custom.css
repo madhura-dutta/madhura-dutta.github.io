@@ -50,3 +50,7 @@ div.custom-main-content
     margin: auto;
 }
 
+figcaption
+{
+    font-size: 80%;
+}
