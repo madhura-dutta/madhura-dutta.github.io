@@ -10,7 +10,7 @@ conscious of delivering my best performance as a cultured educated mind.
 She was the one who had advised Deepayan to ask me at our first meeting
 "Madhura is a character in which Saradindu story?" She knew I had
 answered it correctly. So she shot her next question at me "Who is your
-favourite author ? Who are the other authors you read?" The question-
+favourite author? Who are the other authors you read?" The question-
 answer session had turned into a conversation after a while and then
 finally into an "adda".
 
@@ -29,19 +29,19 @@ and the Rays come up as references in our conversations almost all the
 time and that I love music and Tagore's songs. So the next demand was
 "sing a song". I remember I had sung "সকাতরে ওই কাঁদিছে সকলে". The
 reaction was a sigh of relief and a broad smile. It had nothing to do
-with my voice or being a good or a bad singer...it was something else,
+with my voice or being a good or a bad singer... it was something else,
 something more...
 
-Over time we found that we connected at various levels...movies, music,
+Over time we found that we connected at various levels... movies, music,
 poetry, art, literature, humour at one level and recipes and gardening
 at another level. We would have long conversations about how well
-"আগুনের পরশমনি" has been used in "উত্তর ফাল্গুনী"; "ধরা দিয়েছিগো
+"আগুনের পরশমণি" been used in "উত্তর ফাল্গুনী"; "ধরা দিয়েছিগো
 আমি আকাশের পাখি" in "অতিথি"; "না চাহিলে যারে পাওয়া যায়" in "মেঘ ও
 রৌদ্র"; Baul and Jhumur songs; Ray's movies and our favourites, my
 field work; impact on rural communities I worked with; new books we have
 read; my PhD thesis, history of theatre in India, Debabrata Biswas (her
 favourite), Ghaasphul, Shiuli, Palash and Chanpa, our cats, and how to
-rectify disasters in cooking amongst many other things....it was just
+rectify disasters in cooking amongst many other things... it was just
 about anything and everything. We were story tellers for each other. She
 was my greatest source of quick information and advice.
 
