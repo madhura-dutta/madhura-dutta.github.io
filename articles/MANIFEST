@@ -1,7 +1,12 @@
----
-layout: none
----
+<!-- Use this to define order
 
+Generate TOC.html by
+
+pandoc -o TOC.html -f markdown MANIFEST
+
+(and manually add class="dropdown-item" to each <a>)
+
+-->
 
 [My Marwari Lineage](my-marwari-lineage)
 [The Magic of Jagannath](the-magic-of-jagannath)
