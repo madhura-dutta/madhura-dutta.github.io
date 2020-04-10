@@ -20,3 +20,9 @@ layout: landing
 
 TBA
 
+
+
+## Artwork
+
+{% include_relative artwork/THUMBNAILS.html %}
+
