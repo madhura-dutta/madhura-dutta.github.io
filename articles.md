@@ -1,8 +1,7 @@
 ---
-title: Homepage
+title: Articles
 layout: landing
 ---
-
 
 ## Articles
 
@@ -12,15 +11,4 @@ layout: landing
 
 </div>
 
-
-
-## Academic
-
-TBA
-
-
-
-## Artwork
-
-{% include_relative artwork/THUMBNAILS.html %}
 
