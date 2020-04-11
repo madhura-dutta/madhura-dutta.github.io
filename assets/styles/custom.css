@@ -1,8 +1,16 @@
 body
 {
-    padding-top: 5rem;
+    !padding-top: 5rem;
     font-family: 'Noto Serif', 'Noto Sans Bengali';
 }
+
+.custom-banner p
+{
+    font-size: 90px;
+    font-family: 'Sacramento', cursive;
+    padding-top: 20px;
+}
+
 
 pre code
 {
